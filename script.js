@@ -64,13 +64,3 @@
 //     }
 // }
 
-////////////////////////////////// Qo'shimcha:
-
-//  1. 1 dan 100 gacha fibonachchi sonlarini chiqarish dasturini chiqaring.
-// Fibonachchi sonlari keyingi son oldingi 2 tasining yig'indisiga teng: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34 ...
-
-// let myArray = 100;
-for (let i=1; i<=100; i++){
-
-    console.log(sum);
-}
